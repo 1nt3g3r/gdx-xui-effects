@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gdx-xml-ui/gdx-xml-ui.iml" filepath="$PROJECT_DIR$/../gdx-xml-ui/gdx-xml-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdx-xui-effects.iml" filepath="$PROJECT_DIR$/gdx-xui-effects.iml" />
+    </modules>
+  </component>
+</project>

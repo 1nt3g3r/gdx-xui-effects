@@ -1,0 +1,2 @@
+include ':gdx-xml-ui'
+project(':gdx-xml-ui').projectDir = new File('../gdx-xml-ui')
